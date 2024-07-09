@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://#' },
+    { title: '欢迎来到ichaintalk', url: 'https://#' },
     { title: '我们将一起探索和学习', url: 'https://#' },
     { title: '学无止境，财随智增', url: 'https://#' },
     { title: '人永远赚不到认知以外的钱', url: 'https://#' },
@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享技术',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'Jeacen.COM',
+  HEO_HERO_TITLE_3: 'ichaintalk.com',
   HEO_HERO_TITLE_4: '人永远赚不到认知以外的钱',
   HEO_HERO_TITLE_5: '学无止境，财随智增',
-  HEO_HERO_TITLE_LINK: 'https://jeacen.com',
+  HEO_HERO_TITLE_LINK: 'https://ichaintalk.com',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -37,14 +37,14 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '📚 知识分享的热衷者',
-    '🌟 生活热情的传递者',
-    '🏃 脚踏实地的行动者',
-    '🛠️ 创业精神的引领者',
-    '🧮 精准分析的精算师',
-    '💻 互联网技术的探索者',
-    '🚀 币矿圈内活跃的先锋者'
+    '你好！在这里可以学习到',
+    '📚 虚拟货币的知识',
+    '🌟 区块链的技术',
+    '🏃 矿池的知识和技术',
+    '🛠️ 挖矿的知识和技术',
+    '🧮 炒币的知识和技术',
+    '💻 头矿的信息和技术',
+    '🚀 币矿圈内活动的快讯'
   ],
   HEO_INFO_CARD_URL: '#', // 个人资料底部按钮链接
 
